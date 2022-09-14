@@ -2,7 +2,7 @@
 
 /**
  * print_times_table - Prints times table  to input,
- * n: number of table iteration.
+ * @n: number of table iteration.
 */
 
 void print_times_table(int n)
