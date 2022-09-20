@@ -6,7 +6,7 @@
 */
 
 
-int _strlen(char *s)
+size_t _strlen(char *s)
 {
 int i = 0;
 while (s[i])
