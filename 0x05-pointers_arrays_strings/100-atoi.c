@@ -4,7 +4,7 @@
 *
 *@s: character
 *Return: int
-*/s
+*/
 int _atoi(char *s)
 {
 int sign = 1;
