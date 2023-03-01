@@ -1,7 +1,7 @@
 
 /*
  * File: 1-print_numbers.c
- * Auth: Tolulope Fakunle
+ * Auth: Milton Jesumbo Arogbofa
  */
 
 #include "variadic_functions.h"
